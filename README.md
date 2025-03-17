@@ -1,6 +1,4 @@
-Dưới đây là bản dịch sang tiếng Việt:
 
----
 
 # ⛅ \\\ Bộ sưu tập  
 Một bộ sưu tập các hình nền tuyệt đẹp cho máy tính để bàn của bạn.
@@ -18,8 +16,8 @@ Một bộ sưu tập các hình nền tuyệt đẹp cho máy tính để bàn 
 > git pull  
 > ```
 
-# Chủ đề  
-Tất cả các chủ đề của chúng tôi được liệt kê dưới đây.
+# Ảnh  
+Tất cả các ảnh đã được liệt kê dưới đây.
 
 <div align="center">
   <table><tr><td>
