@@ -9,7 +9,7 @@ Một bộ sưu tập các hình nền tuyệt đẹp cho máy tính để bàn 
 > [!NOTE]  
 > Sử dụng `git clone` thay vì tải xuống tệp **ZIP** từ GitHub.  
 > ```
-> git clone https://github.com/fr0st-iwnl/wallz.git
+> https://github.com/tuanvik206/wallpapers.git
 > ```
 
 > [!TIP]  
